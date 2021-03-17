@@ -1,5 +1,4 @@
 # Speech to Text bot
-=======
 
 ## What is it?
 
