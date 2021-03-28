@@ -1,4 +1,4 @@
-# Speech to Text bot
+# Speech to Text bot (Tutorial from thecodex.me)
 
 ## What is it?
 
@@ -7,4 +7,4 @@ webpage, formatted and hosted using Flask and CSS.
 
 
 ## Note
-In order to run this application, both flask and the speech_recognition libraries must be present on the machine.
+In order to run this application, both flask and the speech_recognition libraries must be present on the machine. This project is based off of the Speech Recognition tutorial on thecodex.me. I furthered this project by applying CSS and making the program more user friendly.
